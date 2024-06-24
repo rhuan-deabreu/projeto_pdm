@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864929418166",
+    "project_id": "projeto-pdm-5cc68",
+    "storage_bucket": "projeto-pdm-5cc68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864929418166:android:b52940c5d8541e0e92cf17",
+        "android_client_info": {
+          "package_name": "com.plano.decontas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2tmu3cqxB-b9LlJ_c6wBv0feZ8yV9IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
